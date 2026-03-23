@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/woofwoofmachine/dev/projects/ordit/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

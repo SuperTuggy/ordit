@@ -1,0 +1,3 @@
+/home/woofwoofmachine/dev/projects/ordit/build/CMakeFiles/ordit.dir
+/home/woofwoofmachine/dev/projects/ordit/build/CMakeFiles/edit_cache.dir
+/home/woofwoofmachine/dev/projects/ordit/build/CMakeFiles/rebuild_cache.dir
